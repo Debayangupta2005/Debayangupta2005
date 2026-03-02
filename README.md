@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debayan gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debayan gupta" height="30" width="40" /></a>
-<a href="https://kaggle.com/debayan gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debayan gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/debayan-gupta-a55a582b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debayan gupta" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/debayangupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debayan gupta" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/700051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="700051" height="30" width="40" /></a>
 </p>
 
